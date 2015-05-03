@@ -5,7 +5,7 @@
  * should not be modified by hand.
  */
 
-package br.com.ifpb.example;
+package br.edu.ifpb.pdm.example;
 
 public final class R {
     public static final class attr {

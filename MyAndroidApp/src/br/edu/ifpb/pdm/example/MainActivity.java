@@ -1,4 +1,4 @@
-package br.com.ifpb.example;
+package br.edu.ifpb.pdm.example;
 
 import android.app.Activity;
 import android.os.Bundle;
